@@ -1,0 +1,32 @@
+const Colors = {
+  white: "#FFFFFF",
+  navyblue: "#002655",
+  darkblue: "#212755",
+  yellowcolor: "#f29424",
+  green: "#599c4d",
+  black: "#000000",
+  grey: "grey",
+  lightgrey: "lightgrey",
+  red: "red",
+  e6e6e6: "#e6e6e6",
+  e4e4e4: "#e4e4e4",
+  orange: "#ff8800",
+  whatsapp: "#25d365",
+  // lightblack: "#0e1111",
+  fbcolor: "#3b5998",
+  google: "#db4a39",
+  overlay: "#0e0e0e4f",
+  theme: "#599c4d",
+  darkgrey: "#969696",
+  bfbcbc: "#bdbcbc",
+  reject: "#cc0000",
+  f2f2f2: "#f2f2f2",
+  lightblack: "#303030",
+  overlayWhite: "#ffffffd1",
+  ff7113: "#ff7113",
+  lightGreen: "#22aa00",
+
+  // lightblack: "#353031",
+};
+
+export default Colors;
